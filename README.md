@@ -10,7 +10,7 @@ As a Junior Data Analyst, My responsibility is to:
 - Where financial and pastoral gaps exist in order to make informed decisions on growth strategy, discipleship programmes, and resource allocation.
 
 ## VISUALIZATION
-![] gracechurchdashboard.jpg
+![]churchdashboard.jpg
 
 # KEY PERFORMANCE INDICATORS
 - Total Members
