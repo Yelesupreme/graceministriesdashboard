@@ -1,4 +1,4 @@
-# Graceministriesdashboard
+# GRACEMINISTRIESDASHBOARD
 Leadership needs to understand who their members are, how they were reached, and where gaps exist in-order to make informed decisions on growth strategy, discipleship programmes, and resource allocation.
 
 # PROBLEM STATEMENT
@@ -10,7 +10,7 @@ As a Junior Data Analyst, My responsibility is to:
 - Where financial and pastoral gaps exist in order to make informed decisions on growth strategy, discipleship programmes, and resource allocation.
 
 # VISUALIZATION
-![]churchdashboard.jpg
+![] churchdashboard.jpg 
 
 KEY PERFORMANCE INDICATORS
 - Total Members
