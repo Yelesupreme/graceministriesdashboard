@@ -1,18 +1,18 @@
-# GRACEMINISTRIESDASHBOARD
+# GRACE MINISTRIES DASHBOARD
 Leadership needs to understand who their members are, how they were reached, and where gaps exist in-order to make informed decisions on growth strategy, discipleship programmes, and resource allocation.
 
 # PROBLEM STATEMENT
 Grace Flow Ministries, a large-scale religious organization with 100,000 registered members, lacked structured visibility into its membership demographics.
 
 As a Junior Data Analyst, My responsibility is to:
-- Provide a statutory report to help leadership understand who their members are.
+- Provide a statutory report using LOOKERSTUDIO to help leadership understand who their members are.
 - How members were reached
 - Where financial and pastoral gaps exist in order to make informed decisions on growth strategy, discipleship programmes, and resource allocation.
 
-# VISUALIZATION
-![] churchdashboard.jpg 
+## VISUALIZATION
+![] gracechurchdashboard.jpg
 
-KEY PERFORMANCE INDICATORS
+# KEY PERFORMANCE INDICATORS
 - Total Members
 - Tithers
 - Non-Tithers
